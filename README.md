@@ -12,3 +12,5 @@
  Бакирова Диана - Architect + Developer
 
  Килина Анастасия - Developer 
+ 
+ https://trello.com/b/WfiQk436/the-road-so-far
